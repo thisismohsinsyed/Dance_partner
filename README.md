@@ -1,4 +1,4 @@
-# Dance Partner Pose Detection
+# Dance Partner Pose Detection Using Computer Vision
 
 A real-time human pose estimation system leveraging [MediaPipe](https://google.github.io/mediapipe/solutions/pose.html) and OpenCV, designed for interactive applications such as dance partner analysis, movement studies, and educational tools.
 
