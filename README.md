@@ -15,7 +15,7 @@ A real-time human pose estimation system leveraging [MediaPipe](https://google.g
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/Dance_partner.git
+    git clone https://github.com/thisismohsinsyed/Dance_partner.git
     cd Dance_partner
     ```
 
